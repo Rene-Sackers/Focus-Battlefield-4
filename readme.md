@@ -1,4 +1,4 @@
-# Focus Battlefiel 4
+# Focus Battlefield 4
 
 ## What?
 In Windows 10, build 14393, if you have Battlefield 4 set to "borderless" fullscreen mode, it won't show in the taskbar, and you can't alt + tab to it.
@@ -24,3 +24,5 @@ For you: Just launch FocusBattlefield.exe
 ## P.S.
 
 Pin it to your taskbar if you play frequently. Just click the icon, and it switches to BF4.
+
+If anyone can create a nice .ico for it, please submit a pull request. I'm not gonna bother ;)
